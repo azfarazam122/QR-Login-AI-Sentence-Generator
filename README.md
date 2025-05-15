@@ -28,6 +28,11 @@ This is a cross-platform Laravel application that allows users to register, log 
 
 ---
 
+## 📚 Folder Structure Highlights
+├── app/Http/Controllers/AIController.php   → Handles AI prompt + response
+├── resources/views/dashboard.blade.php     → UI for dashboard + QR + AI
+├── routes/web.php                          → Route for dashboard + POST form
+
 ## 📦 Installation
 
 ```bash
