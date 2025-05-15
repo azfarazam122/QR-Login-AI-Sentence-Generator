@@ -1,4 +1,4 @@
-# 🧾 QR Login + AI Sentence Generator (Laravel 12)
+![image](https://github.com/user-attachments/assets/122dfe7c-3f2a-4864-980a-198dde74ed62)# 🧾 QR Login + AI Sentence Generator (Laravel 12)
 
 This is a cross-platform Laravel application that allows users to register, log in, generate a unique QR code from their email, and receive an AI-generated sentence based on their account data using OpenAI or Google Gemini.
 
@@ -51,3 +51,13 @@ npm install && npm run dev
 
 # Run the app
 php artisan serve
+
+```
+## 📦 Output Videos And Images : 
+Dashboard Image : 
+![image](https://github.com/user-attachments/assets/656a04f0-2dcd-4cb8-8c84-b062093d960e)
+
+OverAll Process Video : 
+https://github.com/user-attachments/assets/ef112aae-2763-45b9-8d46-387017016af2
+
+
