@@ -10,9 +10,10 @@ This is a cross-platform Laravel application that allows users to register, log 
 - ✅ Dashboard with user email + QR Code
 - ✅ AI Sentence Generation (OpenAI GPT-4.1 or Gemini 2.5)
 - ✅ User input for API key (never stored)
-- ✅ Fully responsive + dark mode UI (TailwindCSS)
+- ✅ Fully responsive (TailwindCSS)
 - ✅ Clean, well-documented code
-- ✅ System Architecture & Data Flow Diagrams
+- ✅ System Architecture & Data Flow Diagrams : ( https://excalidraw.com/#json=fQiU21n-wciENLXnCbOiQ,ea3QalvjaAOEgZqfE--miw ) 
+
 
 ---
 
