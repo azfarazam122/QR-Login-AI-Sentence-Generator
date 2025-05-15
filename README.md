@@ -36,8 +36,8 @@ This is a cross-platform Laravel application that allows users to register, log 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/qr-login-app.git
-cd qr-login-app
+git clone https://github.com/azfarazam122/QR-Login-AI-Sentence-Generator/tree/main
+cd QR-Login-AI-Sentence-Generator
 
 composer install
 cp .env.example .env
