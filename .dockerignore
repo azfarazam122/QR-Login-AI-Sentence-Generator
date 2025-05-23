@@ -1,0 +1,15 @@
+.git
+.github
+.DS_Store
+node_modules
+vendor
+storage/logs/*
+storage/framework/sessions/*
+storage/framework/cache/data/*
+storage/framework/views/*
+public/hot
+public/storage
+.env
+docker-compose.yml
+docker/
+README.md
